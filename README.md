@@ -1,5 +1,5 @@
 # Hi There!💫I'm Pamuditha!
-👨‍🎓 I’m Currently Working On Spring Framework<br>💻 I’m Currently Learning DevOps Technologies And ML<br>💬 Ask Me About Java<br>
+Hello from the world of code! I'm a passionate software engineering student on a mission to turn ideas into lines of elegant, functional code. Welcome to my GitHub, where I tinker, experiment, and learn every day. Join me on this coding journey as we explore the art and science of software development, one commit at a time. Let's build, innovate, and make the digital world a bit more exciting, one project at a time! 💻✨ #CodeEnthusiast #SoftwareEngineering #LearningEveryday"
 
 
 ## 🌐 Socials:
